@@ -5,12 +5,12 @@ export default defineUserConfig({
   base: "/",
 
   locales: {
-    "/": {
+    "/en/": {
       lang: "en-US",
       title: "Flyingpig",
       description: "A blog demo for flyingpig",
     },
-    "/zh/": {
+    "/": {
       lang: "zh-CN",
       title: "Flyingpig",
       description: "Flyingpig 的博客演示",
