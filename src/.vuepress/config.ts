@@ -3,7 +3,11 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
-
+  markdown: {
+    code: {
+      lineNumbers: false // 代码块显示行号
+    }
+  },
   locales: {
     "/en/": {
       lang: "en-US",
