@@ -13,8 +13,11 @@ export default hopeTheme({
     url: "https://mrhope.site",
   },
 
-  iconAssets: "iconfont",
-
+  iconAssets: "iconfont", //nave图标
+  // iconAssets: [ //自定义icon
+  //   "https://example/my/fonr-icon/resouce.css",
+  //   "fontawesome",
+  // ],
   logo: "/flyingpig.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
@@ -23,7 +26,7 @@ export default hopeTheme({
 
   blog: {
     medias: {
-      Baidu: "https://example.com",
+      Baidu: "https://baidu.com",
       BiliBili: "https://example.com",
       Bitbucket: "https://example.com",
       Dingding: "https://example.com",
