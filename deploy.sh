@@ -17,5 +17,6 @@ git branch -M main
 
 # 如果你想要部署到 https://USERNAME.github.io
 git push -f git@github.com:flyingpig2016/flyingpig2016.github.io.git main
+# https://github.com/flyingpig2016/flyingpig2016.github.io.git
 
 cd -
